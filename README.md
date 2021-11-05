@@ -1,6 +1,6 @@
 - :wave: Hi, I'm @asanson42 (Aurelien Sanson)
 - 💻 Student at 42|Paris 
-- ☣️ Founding Partner at BOA BIO INDUSTRY
+- ☣️ Founding Partner at BOA Bio Industry
 - 📫 asanson@student.42.fr
 
 
