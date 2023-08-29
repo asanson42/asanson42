@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm @asanson42 (Aurelien SANSON)</h1>
 <h3 align="center">A developer from 42 Paris.</h3>
 
-- 🔭 I’m currently working on [ft_irc, and inception](private)
+- 🔭 I’m currently working on [ft_transcendence](private)
 
-- ☣️ Founding Partner at **BOA Bio Industry**
+- ☣️ Founding Partner and CSO at **BOA Green Tech**
 
 - 📫 How to reach me **asanson@student.42.fr**
 
