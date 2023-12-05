@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ft_transcendence](private)
 
-- ☣️ Founding Partner and CSO at **BOA Green Tech**
+- ☣️ Founding Partner at **BOA Green Tech**
 
 - 📫 How to reach me **asanson@student.42.fr**
 
