@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @asanson42 (Aurelien SANSON)</h1>
 <h3 align="center">A developer from 42 Paris.</h3>
 
-- 🔭 I’m currently working on [ft_linear_regression](private)
+- 🔭 I’m currently working on [ft_linear_regression](ft_linear_regression)
 
 - ☣️ Founding Partner at **BOA Green Tech**
 
