@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ft_linear_regression](private)
 
-- ☣️ Founding Partner at **BOA Green Tech**
+- 📱 Founding Partner at **HUNTER LABS**
 
 - 📫 How to reach me **asanson@student.42.fr**
 
